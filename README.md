@@ -4,6 +4,8 @@ Currently interested in Machine Learning & Computer Vision.
 
 - I'm a CS MS student at UIUC in the Vision Lab 👨‍💻
 - I also attended UIUC as an undergrad, graduating Highest Honors in Computer Engineering.
+- ```Last Updated : April 2024```
+
 
 <!--
 **jamessoole/jamessoole** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
