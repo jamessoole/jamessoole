@@ -1,5 +1,5 @@
 ### 👋 Hi, James here 
-Always looking to learn and open to new opportunites! <br>
+Always looking to learn and open to new opportunities! <br>
 Currently interested in Machine Learning & Computer Vision. 
 
 - I'm a CS MS student at UIUC in the Vision Lab 👨‍💻
