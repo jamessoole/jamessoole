@@ -2,9 +2,9 @@
 Always looking to learn and open to new opportunities! <br>
 Currently interested in Machine Learning & Computer Vision. 
 
-- I'm a CS MS student at UIUC in the Vision Lab 👨‍💻
+- I'm a recent CS MS graduate from UIUC in the Vision Lab 👨‍💻
 - I also attended UIUC as an undergrad, graduating Highest Honors in Computer Engineering
-- ```Last Updated : April 2024```
+- ```Last Updated : May 2024```
 
 
 <!--
